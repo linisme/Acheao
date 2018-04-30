@@ -7,8 +7,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 
-
-
 public class TestJDCB {
 	public static void main(String args[]) throws ClassNotFoundException, SQLException{
 		Class.forName("org.gjt.mm.mysql.Driver");
@@ -16,7 +14,7 @@ public class TestJDCB {
 		Connection con = DriverManager.getConnection(URL, "root", "12358");
 		Statement sata = con.createStatement();
 		ResultSet rs = sata.executeQuery("select * from orders"); 
-		
+		   
 		while(rs.next()){
 			System.out.println(rs.getString("order_date"));
 		}
