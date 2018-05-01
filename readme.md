@@ -27,7 +27,7 @@
 3. 提交代码
 4. 新建 Pull Request
 
-###作者
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acheao  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018/03/28  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;广州
+### 作者
+Acheao  
+2018/03/28  
+广州
