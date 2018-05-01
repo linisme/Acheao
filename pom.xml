@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.acheao</groupId>
-  <artifactId>personal-web</artifactId>
+  <artifactId>Acheao</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>personal-web Maven Webapp</name>
+  <name>Acheao Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>    
@@ -22,6 +22,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>personal-web</finalName>
+    <finalName>Acheao</finalName>
   </build>
 </project>
